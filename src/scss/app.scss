@@ -28,4 +28,8 @@ html {
   flex-flow: column;
 }
 
-
+@media screen and (max-device-width : 600px) {
+	.discounts {
+		visibility: visible;
+	}
+}
