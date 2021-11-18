@@ -33,3 +33,9 @@ html {
 		visibility: hidden;
 	}
 }
+
+@media only screen and (max-device-width : 600px) {
+	.discounts {
+		visibility: visible;
+	}
+}
